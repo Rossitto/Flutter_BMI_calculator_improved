@@ -8,4 +8,4 @@
 * added long press for weight/age:<br/>
   - jumps by 50 sae or 22 metric for weight<br/>
   - jumps by 20 for age<br/>
-  - sae mode shows feet and inches<br/>
+* sae mode shows feet and inches<br/>
